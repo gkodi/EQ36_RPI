@@ -8,3 +8,4 @@ Reference:
 Wolery, T. J., 2013, EQ3/6 - Software for Geochemical Modeling, Version 8.0a, LLNL-CODE-2013-683958, Lawrence Livermore National Laboratory, Livermore, California. 
 
 Software can be download from: https://www-gs.llnl.gov/energy-homeland-security/geochemistry
+GitHub: https://github.com/llnl/eq3_6
